@@ -12,8 +12,9 @@
 It is a admin side application for lending business
 
 #Template Color
-<p align="center"><img src="https://github.com/mdimacusa/lendingapp-laravel-bootstrap-jquery/assets/58607617/bb4ac641-3180-490f-b59b-f95c8cfe9c8a" width="400" alt="Light Dashboard">
-<img src="https://github.com/mdimacusa/lendingapp-laravel-bootstrap-jquery/assets/58607617/35e88735-4c20-42f8-8986-32109c98322d" width="400" alt="Dark Dashboard">
+<p align="center">
+    <img src="https://github.com/mdimacusa/lendingapp-laravel-bootstrap-jquery/assets/58607617/1f731d70-8495-475e-a015-d802d1725c50" width="400" alt="Light Dashboard">
+    <img src="https://github.com/mdimacusa/lendingapp-laravel-bootstrap-jquery/assets/58607617/98d7b52c-d99b-4794-b6c2-92af1dd77396" width="400" alt="Dark Dashboard">
 </p>
 
 
